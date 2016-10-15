@@ -1,0 +1,2 @@
+2 * * * * /usr/bin/python3 /home/ubuntu/workspace/main.py >> /home/ubuntu/workspace/main.log
+
